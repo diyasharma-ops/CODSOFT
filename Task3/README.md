@@ -1,4 +1,4 @@
-# Task 3 – CodSoft Internship (C++)
+# Task 3 – To Do List (C++)
 
 ## Description
 This project is part of Task 3 of the CodSoft C++ Internship. 
