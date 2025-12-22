@@ -1,23 +1,23 @@
-# Task 3 – To Do List (C++)
+# Task 3 – To-Do List Application (C++)
 
-## Description
-This project is part of Task 3 of the CodSoft C++ Internship. 
-The program demonstrates basic C++ concepts and problem-solving skills.
+This program is a simple To-Do List application implemented in C++.  
+It allows the user to manage daily tasks through a menu-driven interface.
 
-## How to Run
-1. Compile the program using a C++ compiler:
-   g++ task3.cpp -o task3
-2. Run the program:
-   ./task3
+• Add tasks  
+• View tasks  
+• Delete tasks  
+• Exit the application  
 
 ## Files Included
-- task3.cpp – C++ source code for Task 3
-- screenshot.png – Screenshot showing the program output
-- README.md – Documentation for Task 3
 
-## Output
-The output of the program is shown in the screenshot.png file.
+• task3.cpp  
+• Screenshot.png (screenshot)
 
-## Author
-Diya Sharma
-CodSoft Internship – C++
+## Video Demo ##
+
+https://www.linkedin.com/posts/diyasharma12_codsoft-internship-cplusplus-activity-7408899966317817856-Eihs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtYnhQBLn0PZo65Lm6kNzDGBbdToDBsiFA
+
+## How to run:
+
+g++ task3.cpp -o task3
+./task3
